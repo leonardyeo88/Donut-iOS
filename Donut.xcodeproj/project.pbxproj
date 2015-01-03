@@ -7,6 +7,44 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		D7034FEE18B6335700C5D17A /* imagebackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7034FED18B6335700C5D17A /* imagebackground.png */; };
+		D7034FF118B6649500C5D17A /* Upcoming.m in Sources */ = {isa = PBXBuildFile; fileRef = D7034FF018B6649500C5D17A /* Upcoming.m */; };
+		D7034FF418B664AF00C5D17A /* UpcomingCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7034FF318B664AF00C5D17A /* UpcomingCell.m */; };
+		D70A834018A7ECFB00E8DD02 /* navibarbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D70A833D18A7ECFB00E8DD02 /* navibarbackground.png */; };
+		D70A839218AA6C2200E8DD02 /* EventViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D70A839118AA6C2200E8DD02 /* EventViewController.m */; };
+		D787B3A318B67E9100AD7787 /* completedbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D787B3A118B67E9100AD7787 /* completedbackground.png */; };
+		D787B3A418B67E9100AD7787 /* upcomingbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D787B3A218B67E9100AD7787 /* upcomingbackground.png */; };
+		D787B3A818B67F6200AD7787 /* myrecordbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D787B3A718B67F6200AD7787 /* myrecordbackground.png */; };
+		D787B3AE18B7071600AD7787 /* SVProgressHUD.bundle in Resources */ = {isa = PBXBuildFile; fileRef = D787B3AB18B7071600AD7787 /* SVProgressHUD.bundle */; };
+		D787B3AF18B7071600AD7787 /* SVProgressHUD.m in Sources */ = {isa = PBXBuildFile; fileRef = D787B3AD18B7071600AD7787 /* SVProgressHUD.m */; };
+		D787B3B218B710FC00AD7787 /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D787B3B118B710FC00AD7787 /* SettingsViewController.m */; };
+		D787B3B418B71E8E00AD7787 /* donutintro.png in Resources */ = {isa = PBXBuildFile; fileRef = D787B3B318B71E8E00AD7787 /* donutintro.png */; };
+		D7BF41C018AB6A0D00185697 /* testViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41BF18AB6A0D00185697 /* testViewController.m */; };
+		D7BF41C318ADC56E00185697 /* Event.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41C218ADC56E00185697 /* Event.m */; };
+		D7BF41C618ADC58F00185697 /* EventCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41C518ADC58F00185697 /* EventCell.m */; };
+		D7BF41CB18ADE23300185697 /* EventDetailViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41CA18ADE23300185697 /* EventDetailViewController.m */; };
+		D7BF41CE18AE0BB400185697 /* smalltabsbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41CC18AE0BB400185697 /* smalltabsbackground.png */; };
+		D7BF41CF18AE0BB400185697 /* tabbarbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41CD18AE0BB400185697 /* tabbarbackground.png */; };
+		D7BF41D118AE0E8D00185697 /* settingicon.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41D018AE0E8D00185697 /* settingicon.png */; };
+		D7BF41D418AE14DB00185697 /* FriendViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41D318AE14DB00185697 /* FriendViewController.m */; };
+		D7BF41D718AE15FB00185697 /* Friend.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41D618AE15FB00185697 /* Friend.m */; };
+		D7BF41DA18AE161B00185697 /* FriendCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41D918AE161B00185697 /* FriendCell.m */; };
+		D7BF41DD18AE886E00185697 /* MyRecordPageViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41DC18AE886E00185697 /* MyRecordPageViewController.m */; };
+		D7BF41E018AE88AB00185697 /* MyRecordViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41DF18AE88AB00185697 /* MyRecordViewController.m */; };
+		D7BF41EA18AE985E00185697 /* eventicon.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41E718AE985E00185697 /* eventicon.png */; };
+		D7BF41EB18AE985E00185697 /* friendicon.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41E818AE985E00185697 /* friendicon.png */; };
+		D7BF41EE18AE9A5500185697 /* meicon.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41ED18AE9A5500185697 /* meicon.png */; };
+		D7BF41F118AF096500185697 /* PageContentViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41F018AF096500185697 /* PageContentViewController.m */; };
+		D7BF41F318AF1AB700185697 /* page1.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41F218AF1AB700185697 /* page1.png */; };
+		D7BF41FA18B47E4400185697 /* loginbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41F918B47E4400185697 /* loginbackground.png */; };
+		D7BF41FD18B4854F00185697 /* RegisterViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF41FC18B4854F00185697 /* RegisterViewController.m */; };
+		D7BF41FF18B487E400185697 /* registerbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF41FE18B487E400185697 /* registerbackground.png */; };
+		D7BF420A18B48F4600185697 /* CompletedViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF420918B48F4600185697 /* CompletedViewController.m */; };
+		D7BF420D18B48F5500185697 /* UpcomingViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF420C18B48F5500185697 /* UpcomingViewController.m */; };
+		D7BF421018B4908C00185697 /* Completed.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF420F18B4908C00185697 /* Completed.m */; };
+		D7BF421318B493F700185697 /* CompletedCell.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF421218B493F700185697 /* CompletedCell.m */; };
+		D7BF421618B4991B00185697 /* MyRecord.m in Sources */ = {isa = PBXBuildFile; fileRef = D7BF421518B4991B00185697 /* MyRecord.m */; };
+		D7BF421E18B4F11E00185697 /* friendsbackground.png in Resources */ = {isa = PBXBuildFile; fileRef = D7BF421D18B4F11E00185697 /* friendsbackground.png */; };
 		D7C8F64318A7E8E7000257C9 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7C8F64218A7E8E7000257C9 /* Foundation.framework */; };
 		D7C8F64518A7E8E7000257C9 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7C8F64418A7E8E7000257C9 /* CoreGraphics.framework */; };
 		D7C8F64718A7E8E7000257C9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7C8F64618A7E8E7000257C9 /* UIKit.framework */; };
@@ -21,6 +59,7 @@
 		D7C8F66418A7E8E7000257C9 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = D7C8F64618A7E8E7000257C9 /* UIKit.framework */; };
 		D7C8F66C18A7E8E7000257C9 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = D7C8F66A18A7E8E7000257C9 /* InfoPlist.strings */; };
 		D7C8F66E18A7E8E7000257C9 /* DonutTests.m in Sources */ = {isa = PBXBuildFile; fileRef = D7C8F66D18A7E8E7000257C9 /* DonutTests.m */; };
+		D7C9ED0118B4F6F000CC8E7D /* page2.png in Resources */ = {isa = PBXBuildFile; fileRef = D7C9ED0018B4F6F000CC8E7D /* page2.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +73,66 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		D7034FED18B6335700C5D17A /* imagebackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = imagebackground.png; sourceTree = "<group>"; };
+		D7034FEF18B6649500C5D17A /* Upcoming.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Upcoming.h; sourceTree = "<group>"; };
+		D7034FF018B6649500C5D17A /* Upcoming.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Upcoming.m; sourceTree = "<group>"; };
+		D7034FF218B664AF00C5D17A /* UpcomingCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UpcomingCell.h; sourceTree = "<group>"; };
+		D7034FF318B664AF00C5D17A /* UpcomingCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UpcomingCell.m; sourceTree = "<group>"; };
+		D70A833D18A7ECFB00E8DD02 /* navibarbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = navibarbackground.png; sourceTree = "<group>"; };
+		D70A839018AA6C2200E8DD02 /* EventViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventViewController.h; sourceTree = "<group>"; };
+		D70A839118AA6C2200E8DD02 /* EventViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventViewController.m; sourceTree = "<group>"; };
+		D787B3A118B67E9100AD7787 /* completedbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = completedbackground.png; sourceTree = "<group>"; };
+		D787B3A218B67E9100AD7787 /* upcomingbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = upcomingbackground.png; sourceTree = "<group>"; };
+		D787B3A718B67F6200AD7787 /* myrecordbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = myrecordbackground.png; sourceTree = "<group>"; };
+		D787B3AA18B7071600AD7787 /* SVProgressHUD-Prefix.pch */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "SVProgressHUD-Prefix.pch"; sourceTree = "<group>"; };
+		D787B3AB18B7071600AD7787 /* SVProgressHUD.bundle */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.plug-in"; path = SVProgressHUD.bundle; sourceTree = "<group>"; };
+		D787B3AC18B7071600AD7787 /* SVProgressHUD.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SVProgressHUD.h; sourceTree = "<group>"; };
+		D787B3AD18B7071600AD7787 /* SVProgressHUD.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SVProgressHUD.m; sourceTree = "<group>"; };
+		D787B3B018B710FC00AD7787 /* SettingsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SettingsViewController.h; sourceTree = "<group>"; };
+		D787B3B118B710FC00AD7787 /* SettingsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SettingsViewController.m; sourceTree = "<group>"; };
+		D787B3B318B71E8E00AD7787 /* donutintro.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = donutintro.png; sourceTree = "<group>"; };
+		D7BF41BE18AB6A0D00185697 /* testViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = testViewController.h; sourceTree = "<group>"; };
+		D7BF41BF18AB6A0D00185697 /* testViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = testViewController.m; sourceTree = "<group>"; };
+		D7BF41C118ADC56E00185697 /* Event.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Event.h; sourceTree = "<group>"; };
+		D7BF41C218ADC56E00185697 /* Event.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Event.m; sourceTree = "<group>"; };
+		D7BF41C418ADC58F00185697 /* EventCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventCell.h; sourceTree = "<group>"; };
+		D7BF41C518ADC58F00185697 /* EventCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventCell.m; sourceTree = "<group>"; };
+		D7BF41C918ADE23300185697 /* EventDetailViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EventDetailViewController.h; sourceTree = "<group>"; };
+		D7BF41CA18ADE23300185697 /* EventDetailViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EventDetailViewController.m; sourceTree = "<group>"; };
+		D7BF41CC18AE0BB400185697 /* smalltabsbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = smalltabsbackground.png; path = "../../../../Documents/Donut images/donut ios/smalltabsbackground.png"; sourceTree = "<group>"; };
+		D7BF41CD18AE0BB400185697 /* tabbarbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = tabbarbackground.png; path = "../../../../Documents/Donut images/donut ios/tabbarbackground.png"; sourceTree = "<group>"; };
+		D7BF41D018AE0E8D00185697 /* settingicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = settingicon.png; path = "../../../../Documents/Donut images/donut ios/settingicon.png"; sourceTree = "<group>"; };
+		D7BF41D218AE14DB00185697 /* FriendViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendViewController.h; sourceTree = "<group>"; };
+		D7BF41D318AE14DB00185697 /* FriendViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendViewController.m; sourceTree = "<group>"; };
+		D7BF41D518AE15FB00185697 /* Friend.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Friend.h; sourceTree = "<group>"; };
+		D7BF41D618AE15FB00185697 /* Friend.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Friend.m; sourceTree = "<group>"; };
+		D7BF41D818AE161B00185697 /* FriendCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FriendCell.h; sourceTree = "<group>"; };
+		D7BF41D918AE161B00185697 /* FriendCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FriendCell.m; sourceTree = "<group>"; };
+		D7BF41DB18AE886E00185697 /* MyRecordPageViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyRecordPageViewController.h; sourceTree = "<group>"; };
+		D7BF41DC18AE886E00185697 /* MyRecordPageViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyRecordPageViewController.m; sourceTree = "<group>"; };
+		D7BF41DE18AE88AB00185697 /* MyRecordViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyRecordViewController.h; sourceTree = "<group>"; };
+		D7BF41DF18AE88AB00185697 /* MyRecordViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyRecordViewController.m; sourceTree = "<group>"; };
+		D7BF41E718AE985E00185697 /* eventicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = eventicon.png; path = "../../../../Documents/Donut images/donut ios/eventicon.png"; sourceTree = "<group>"; };
+		D7BF41E818AE985E00185697 /* friendicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = friendicon.png; path = "../../../../Documents/Donut images/donut ios/friendicon.png"; sourceTree = "<group>"; };
+		D7BF41ED18AE9A5500185697 /* meicon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = meicon.png; path = "../../../../Documents/Donut images/donut ios/meicon.png"; sourceTree = "<group>"; };
+		D7BF41EF18AF096500185697 /* PageContentViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PageContentViewController.h; sourceTree = "<group>"; };
+		D7BF41F018AF096500185697 /* PageContentViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PageContentViewController.m; sourceTree = "<group>"; };
+		D7BF41F218AF1AB700185697 /* page1.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = page1.png; path = "../../../../Documents/Donut images/donut ios/page1.png"; sourceTree = "<group>"; };
+		D7BF41F918B47E4400185697 /* loginbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = loginbackground.png; path = "../../../../Documents/Donut images/donut ios/loginbackground.png"; sourceTree = "<group>"; };
+		D7BF41FB18B4854F00185697 /* RegisterViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = RegisterViewController.h; sourceTree = "<group>"; };
+		D7BF41FC18B4854F00185697 /* RegisterViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = RegisterViewController.m; sourceTree = "<group>"; };
+		D7BF41FE18B487E400185697 /* registerbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = registerbackground.png; path = "../../../../Documents/Donut images/donut ios/registerbackground.png"; sourceTree = "<group>"; };
+		D7BF420818B48F4600185697 /* CompletedViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompletedViewController.h; sourceTree = "<group>"; };
+		D7BF420918B48F4600185697 /* CompletedViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompletedViewController.m; sourceTree = "<group>"; };
+		D7BF420B18B48F5500185697 /* UpcomingViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = UpcomingViewController.h; sourceTree = "<group>"; };
+		D7BF420C18B48F5500185697 /* UpcomingViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = UpcomingViewController.m; sourceTree = "<group>"; };
+		D7BF420E18B4908C00185697 /* Completed.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Completed.h; sourceTree = "<group>"; };
+		D7BF420F18B4908C00185697 /* Completed.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Completed.m; sourceTree = "<group>"; };
+		D7BF421118B493F700185697 /* CompletedCell.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CompletedCell.h; sourceTree = "<group>"; };
+		D7BF421218B493F700185697 /* CompletedCell.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CompletedCell.m; sourceTree = "<group>"; };
+		D7BF421418B4991B00185697 /* MyRecord.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MyRecord.h; sourceTree = "<group>"; };
+		D7BF421518B4991B00185697 /* MyRecord.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MyRecord.m; sourceTree = "<group>"; };
+		D7BF421D18B4F11E00185697 /* friendsbackground.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = friendsbackground.png; path = "../../../../Documents/Donut images/donut ios/friendsbackground.png"; sourceTree = "<group>"; };
 		D7C8F63F18A7E8E7000257C9 /* Donut.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Donut.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		D7C8F64218A7E8E7000257C9 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
 		D7C8F64418A7E8E7000257C9 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
@@ -53,6 +152,7 @@
 		D7C8F66918A7E8E7000257C9 /* DonutTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "DonutTests-Info.plist"; sourceTree = "<group>"; };
 		D7C8F66B18A7E8E7000257C9 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		D7C8F66D18A7E8E7000257C9 /* DonutTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = DonutTests.m; sourceTree = "<group>"; };
+		D7C9ED0018B4F6F000CC8E7D /* page2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = page2.png; path = "../../../../Documents/Donut images/donut ios/page2.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -79,9 +179,61 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		D787B3A918B7071600AD7787 /* SVProgressHUD */ = {
+			isa = PBXGroup;
+			children = (
+				D787B3AA18B7071600AD7787 /* SVProgressHUD-Prefix.pch */,
+				D787B3AB18B7071600AD7787 /* SVProgressHUD.bundle */,
+				D787B3AC18B7071600AD7787 /* SVProgressHUD.h */,
+				D787B3AD18B7071600AD7787 /* SVProgressHUD.m */,
+			);
+			path = SVProgressHUD;
+			sourceTree = "<group>";
+		};
 		D7C8F63618A7E8E7000257C9 = {
 			isa = PBXGroup;
 			children = (
+				D787B3A918B7071600AD7787 /* SVProgressHUD */,
+				D787B3B018B710FC00AD7787 /* SettingsViewController.h */,
+				D787B3B118B710FC00AD7787 /* SettingsViewController.m */,
+				D7034FF218B664AF00C5D17A /* UpcomingCell.h */,
+				D7034FF318B664AF00C5D17A /* UpcomingCell.m */,
+				D7034FEF18B6649500C5D17A /* Upcoming.h */,
+				D7034FF018B6649500C5D17A /* Upcoming.m */,
+				D7BF421418B4991B00185697 /* MyRecord.h */,
+				D7BF421518B4991B00185697 /* MyRecord.m */,
+				D7BF421118B493F700185697 /* CompletedCell.h */,
+				D7BF421218B493F700185697 /* CompletedCell.m */,
+				D7BF420E18B4908C00185697 /* Completed.h */,
+				D7BF420F18B4908C00185697 /* Completed.m */,
+				D7BF420B18B48F5500185697 /* UpcomingViewController.h */,
+				D7BF420C18B48F5500185697 /* UpcomingViewController.m */,
+				D7BF420818B48F4600185697 /* CompletedViewController.h */,
+				D7BF420918B48F4600185697 /* CompletedViewController.m */,
+				D7BF41FB18B4854F00185697 /* RegisterViewController.h */,
+				D7BF41FC18B4854F00185697 /* RegisterViewController.m */,
+				D7BF41EF18AF096500185697 /* PageContentViewController.h */,
+				D7BF41F018AF096500185697 /* PageContentViewController.m */,
+				D7BF41DE18AE88AB00185697 /* MyRecordViewController.h */,
+				D7BF41DF18AE88AB00185697 /* MyRecordViewController.m */,
+				D7BF41DB18AE886E00185697 /* MyRecordPageViewController.h */,
+				D7BF41DC18AE886E00185697 /* MyRecordPageViewController.m */,
+				D7BF41D818AE161B00185697 /* FriendCell.h */,
+				D7BF41D918AE161B00185697 /* FriendCell.m */,
+				D7BF41D518AE15FB00185697 /* Friend.h */,
+				D7BF41D618AE15FB00185697 /* Friend.m */,
+				D7BF41D218AE14DB00185697 /* FriendViewController.h */,
+				D7BF41D318AE14DB00185697 /* FriendViewController.m */,
+				D7BF41C918ADE23300185697 /* EventDetailViewController.h */,
+				D7BF41CA18ADE23300185697 /* EventDetailViewController.m */,
+				D7BF41C418ADC58F00185697 /* EventCell.h */,
+				D7BF41C518ADC58F00185697 /* EventCell.m */,
+				D7BF41C118ADC56E00185697 /* Event.h */,
+				D7BF41C218ADC56E00185697 /* Event.m */,
+				D7BF41BE18AB6A0D00185697 /* testViewController.h */,
+				D7BF41BF18AB6A0D00185697 /* testViewController.m */,
+				D70A839018AA6C2200E8DD02 /* EventViewController.h */,
+				D70A839118AA6C2200E8DD02 /* EventViewController.m */,
 				D7C8F64818A7E8E7000257C9 /* Donut */,
 				D7C8F66718A7E8E7000257C9 /* DonutTests */,
 				D7C8F64118A7E8E7000257C9 /* Frameworks */,
@@ -112,6 +264,23 @@
 		D7C8F64818A7E8E7000257C9 /* Donut */ = {
 			isa = PBXGroup;
 			children = (
+				D787B3B318B71E8E00AD7787 /* donutintro.png */,
+				D787B3A718B67F6200AD7787 /* myrecordbackground.png */,
+				D787B3A118B67E9100AD7787 /* completedbackground.png */,
+				D787B3A218B67E9100AD7787 /* upcomingbackground.png */,
+				D7034FED18B6335700C5D17A /* imagebackground.png */,
+				D7C9ED0018B4F6F000CC8E7D /* page2.png */,
+				D7BF421D18B4F11E00185697 /* friendsbackground.png */,
+				D7BF41FE18B487E400185697 /* registerbackground.png */,
+				D7BF41F918B47E4400185697 /* loginbackground.png */,
+				D7BF41F218AF1AB700185697 /* page1.png */,
+				D7BF41ED18AE9A5500185697 /* meicon.png */,
+				D7BF41E718AE985E00185697 /* eventicon.png */,
+				D7BF41E818AE985E00185697 /* friendicon.png */,
+				D7BF41D018AE0E8D00185697 /* settingicon.png */,
+				D7BF41CC18AE0BB400185697 /* smalltabsbackground.png */,
+				D7BF41CD18AE0BB400185697 /* tabbarbackground.png */,
+				D70A833D18A7ECFB00E8DD02 /* navibarbackground.png */,
 				D7C8F65118A7E8E7000257C9 /* AppDelegate.h */,
 				D7C8F65218A7E8E7000257C9 /* AppDelegate.m */,
 				D7C8F65418A7E8E7000257C9 /* Main.storyboard */,
@@ -196,9 +365,12 @@
 		D7C8F63718A7E8E7000257C9 /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
-				LastUpgradeCheck = 0500;
+				LastUpgradeCheck = 0510;
 				ORGANIZATIONNAME = kinkypizza;
 				TargetAttributes = {
+					D7C8F63E18A7E8E7000257C9 = {
+						DevelopmentTeam = 57L95WLNH2;
+					};
 					D7C8F65F18A7E8E7000257C9 = {
 						TestTargetID = D7C8F63E18A7E8E7000257C9;
 					};
@@ -229,8 +401,26 @@
 			buildActionMask = 2147483647;
 			files = (
 				D7C8F65B18A7E8E7000257C9 /* Images.xcassets in Resources */,
+				D7BF41FF18B487E400185697 /* registerbackground.png in Resources */,
+				D7BF421E18B4F11E00185697 /* friendsbackground.png in Resources */,
+				D7BF41D118AE0E8D00185697 /* settingicon.png in Resources */,
+				D7BF41F318AF1AB700185697 /* page1.png in Resources */,
+				D787B3A418B67E9100AD7787 /* upcomingbackground.png in Resources */,
+				D7BF41EB18AE985E00185697 /* friendicon.png in Resources */,
+				D7034FEE18B6335700C5D17A /* imagebackground.png in Resources */,
+				D7BF41CF18AE0BB400185697 /* tabbarbackground.png in Resources */,
+				D7C9ED0118B4F6F000CC8E7D /* page2.png in Resources */,
+				D7BF41EE18AE9A5500185697 /* meicon.png in Resources */,
+				D7BF41EA18AE985E00185697 /* eventicon.png in Resources */,
 				D7C8F64D18A7E8E7000257C9 /* InfoPlist.strings in Resources */,
 				D7C8F65618A7E8E7000257C9 /* Main.storyboard in Resources */,
+				D7BF41FA18B47E4400185697 /* loginbackground.png in Resources */,
+				D787B3B418B71E8E00AD7787 /* donutintro.png in Resources */,
+				D787B3AE18B7071600AD7787 /* SVProgressHUD.bundle in Resources */,
+				D787B3A818B67F6200AD7787 /* myrecordbackground.png in Resources */,
+				D70A834018A7ECFB00E8DD02 /* navibarbackground.png in Resources */,
+				D7BF41CE18AE0BB400185697 /* smalltabsbackground.png in Resources */,
+				D787B3A318B67E9100AD7787 /* completedbackground.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -249,9 +439,30 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				D7BF420A18B48F4600185697 /* CompletedViewController.m in Sources */,
+				D7BF41DD18AE886E00185697 /* MyRecordPageViewController.m in Sources */,
+				D7BF41FD18B4854F00185697 /* RegisterViewController.m in Sources */,
+				D787B3B218B710FC00AD7787 /* SettingsViewController.m in Sources */,
+				D7BF421018B4908C00185697 /* Completed.m in Sources */,
+				D7BF41E018AE88AB00185697 /* MyRecordViewController.m in Sources */,
+				D7BF41C318ADC56E00185697 /* Event.m in Sources */,
+				D7BF41D718AE15FB00185697 /* Friend.m in Sources */,
+				D7BF41C618ADC58F00185697 /* EventCell.m in Sources */,
+				D7BF41CB18ADE23300185697 /* EventDetailViewController.m in Sources */,
+				D7BF420D18B48F5500185697 /* UpcomingViewController.m in Sources */,
+				D787B3AF18B7071600AD7787 /* SVProgressHUD.m in Sources */,
 				D7C8F65918A7E8E7000257C9 /* ViewController.m in Sources */,
+				D7BF41D418AE14DB00185697 /* FriendViewController.m in Sources */,
+				D70A839218AA6C2200E8DD02 /* EventViewController.m in Sources */,
 				D7C8F65318A7E8E7000257C9 /* AppDelegate.m in Sources */,
 				D7C8F64F18A7E8E7000257C9 /* main.m in Sources */,
+				D7BF41C018AB6A0D00185697 /* testViewController.m in Sources */,
+				D7BF421318B493F700185697 /* CompletedCell.m in Sources */,
+				D7034FF118B6649500C5D17A /* Upcoming.m in Sources */,
+				D7BF41F118AF096500185697 /* PageContentViewController.m in Sources */,
+				D7BF421618B4991B00185697 /* MyRecord.m in Sources */,
+				D7BF41DA18AE161B00185697 /* FriendCell.m in Sources */,
+				D7034FF418B664AF00C5D17A /* UpcomingCell.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -305,7 +516,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -344,7 +554,6 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ALWAYS_SEARCH_USER_PATHS = NO;
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
 				CLANG_CXX_LIBRARY = "libc++";
 				CLANG_ENABLE_MODULES = YES;
@@ -378,10 +587,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Donut/Donut-Prefix.pch";
 				INFOPLIST_FILE = "Donut/Donut-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Debug;
@@ -391,10 +604,14 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
 				GCC_PREFIX_HEADER = "Donut/Donut-Prefix.pch";
 				INFOPLIST_FILE = "Donut/Donut-Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				PROVISIONING_PROFILE = "";
 				WRAPPER_EXTENSION = app;
 			};
 			name = Release;
@@ -402,7 +619,6 @@
 		D7C8F67518A7E8E7000257C9 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Donut.app/Donut";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -425,7 +641,6 @@
 		D7C8F67618A7E8E7000257C9 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ARCHS = "$(ARCHS_STANDARD_INCLUDING_64_BIT)";
 				BUNDLE_LOADER = "$(BUILT_PRODUCTS_DIR)/Donut.app/Donut";
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(SDKROOT)/Developer/Library/Frameworks",
@@ -460,6 +675,7 @@
 				D7C8F67318A7E8E7000257C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		D7C8F67418A7E8E7000257C9 /* Build configuration list for PBXNativeTarget "DonutTests" */ = {
 			isa = XCConfigurationList;
@@ -468,6 +684,7 @@
 				D7C8F67618A7E8E7000257C9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
